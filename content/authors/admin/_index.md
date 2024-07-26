@@ -110,13 +110,13 @@ work:
     company_logo: ''
     date_start: 2022-05-01
     date_end: ''
-    summary: |2-
-      Advisor: Prof. Jae-yoon Choi
-      -Constructed a 671nm ECDL currently used as the Raman laser source, and observed 6Li D1 and D2 saturated absorption spectroscopy.
-      - Constructed an optical setup and monitoring software to monitor the atom flux from the oven to the main chamber.
-      - Experimental observation of quantum Kelvin-Helmholtz instability and dynamical generation of fractional skyrmions in spinor Bose-Einstein condensates. (Submitted)
-      - Numerical simulation on quantized charge pumps and initial state preparation in bosonic optical lattice systems. (In progress)
-  - position:Research Intern
+    summary: '' #|2-
+      #Advisor: Prof. Jae-yoon Choi
+  # -Constructed a 671nm ECDL currently used as the Raman laser source, and observed 6Li D1 and D2 saturated absorption spectroscopy.
+  # - Constructed an optical setup and monitoring software to monitor the atom flux from the oven to the main chamber.
+  # - Experimental observation of quantum Kelvin-Helmholtz instability and dynamical generation of fractional skyrmions in spinor Bose-Einstein condensates. (Submitted)
+  # - Numerical simulation on quantized charge pumps and initial state preparation in bosonic optical lattice systems. (In progress)
+  - position: Research Intern 
     company_name: 5th Institute of Physics, University of Stuttgart
     company_url: https://www.pi5.uni-stuttgart.de/research/dipolar-quantum-gases/
     company_logo: ''
@@ -124,9 +124,9 @@ work:
     date_end: 2024-03-02
     summary: |
       Advisor: Prof. Dr. Tilman Pfau & Dr. Ralf Klemt
-      - Worked in the Dipolar Quantum Gas group (Dysis).
-      - Designed and constructed a 1001nm laser system for dysprosium lattice experiment: Using EOMs, ULE cavity and transger cavity for frequency locking and AOM for fast freqeuncy sweeps.
-      - Planned to characterize the 1001nm transition of dysprosium and measure the excited state lifetime and polarizability.
+  # - Worked in the Dipolar Quantum Gas group (Dysis).
+  # - Designed and constructed a 1001nm laser system for dysprosium lattice experiment: Using EOMs, ULE cavity and transger cavity for frequency locking and AOM for fast freqeuncy sweeps.
+  # - Planned to characterize the 1001nm transition of dysprosium and measure the excited state lifetime and polarizability.
   
 
 # Skills
