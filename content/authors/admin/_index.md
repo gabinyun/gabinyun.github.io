@@ -85,48 +85,48 @@ education:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-- position: Undergraduate Research Intern
-    company_name: Ultrafast Spin Dynamics Laboratory, KAIST
-    company_url: https://spintronics.kaist.ac.kr/index.html
-    company_logo: ''
-    date_start: 2020-08-01
-    date_end: 2020-12-31
-    summary: |
-      Advisor: Prof. Kabjin Kim
-      - Numerical study on the generalized Snell’s law for spin waves in magnetic domains.
-  - position: Sergeant (Veteran), Republic of Korea Army
-    company_name: Defense Security Agency, Ministry of National Defense
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-04
-    date_end: 2021-07-03
-    summary: |
-      - Mandatory military service as an army sergeant.
-      - Special intelligence (SI-II) personnel.
-      - Served as squad leader for 3 months.
-  - position: Undergraduate Researcher
-    company_name: Prof. Jae-yoon Choi's Group, KAIST
-    company_url: http://jylab.kaist.ac.kr/research/
-    company_logo: ''
-    date_start: 2022-05-01
-    date_end: ''
-    summary: '' #|2-
-      #Advisor: Prof. Jae-yoon Choi
-  # -Constructed a 671nm ECDL currently used as the Raman laser source, and observed 6Li D1 and D2 saturated absorption spectroscopy.
-  # - Constructed an optical setup and monitoring software to monitor the atom flux from the oven to the main chamber.
-  # - Experimental observation of quantum Kelvin-Helmholtz instability and dynamical generation of fractional skyrmions in spinor Bose-Einstein condensates. (Submitted)
-  # - Numerical simulation on quantized charge pumps and initial state preparation in bosonic optical lattice systems. (In progress)
-  - position: Research Intern 
-    company_name: 5th Institute of Physics, University of Stuttgart
-    company_url: https://www.pi5.uni-stuttgart.de/research/dipolar-quantum-gases/
-    company_logo: ''
-    date_start: 2024-01-08
-    date_end: 2024-03-02
-    summary: |
-      Advisor: Prof. Dr. Tilman Pfau & Dr. Ralf Klemt
-  # - Worked in the Dipolar Quantum Gas group (Dysis).
-  # - Designed and constructed a 1001nm laser system for dysprosium lattice experiment: Using EOMs, ULE cavity and transger cavity for frequency locking and AOM for fast freqeuncy sweeps.
-  # - Planned to characterize the 1001nm transition of dysprosium and measure the excited state lifetime and polarizability.
+# - position: Undergraduate Research Intern
+#     company_name: Ultrafast Spin Dynamics Laboratory, KAIST
+#     company_url: https://spintronics.kaist.ac.kr/index.html
+#     company_logo: ''
+#     date_start: 2020-08-01
+#     date_end: 2020-12-31
+#     summary: |
+#       Advisor: Prof. Kabjin Kim
+#       - Numerical study on the generalized Snell’s law for spin waves in magnetic domains.
+#   - position: Sergeant (Veteran), Republic of Korea Army
+#     company_name: Defense Security Agency, Ministry of National Defense
+#     company_url: ''
+#     company_logo: ''
+#     date_start: 2021-01-04
+#     date_end: 2021-07-03
+#     summary: |
+#       - Mandatory military service as an army sergeant.
+#       - Special intelligence (SI-II) personnel.
+#       - Served as squad leader for 3 months.
+#   - position: Undergraduate Researcher
+#     company_name: Prof. Jae-yoon Choi's Group, KAIST
+#     company_url: http://jylab.kaist.ac.kr/research/
+#     company_logo: ''
+#     date_start: 2022-05-01
+#     date_end: ''
+#     summary: '' #|2-
+#       #Advisor: Prof. Jae-yoon Choi
+#   # -Constructed a 671nm ECDL currently used as the Raman laser source, and observed 6Li D1 and D2 saturated absorption spectroscopy.
+#   # - Constructed an optical setup and monitoring software to monitor the atom flux from the oven to the main chamber.
+#   # - Experimental observation of quantum Kelvin-Helmholtz instability and dynamical generation of fractional skyrmions in spinor Bose-Einstein condensates. (Submitted)
+#   # - Numerical simulation on quantized charge pumps and initial state preparation in bosonic optical lattice systems. (In progress)
+#   - position: Research Intern 
+#     company_name: 5th Institute of Physics, University of Stuttgart
+#     company_url: https://www.pi5.uni-stuttgart.de/research/dipolar-quantum-gases/
+#     company_logo: ''
+#     date_start: 2024-01-08
+#     date_end: 2024-03-02
+#     summary: |
+#       Advisor: Prof. Dr. Tilman Pfau & Dr. Ralf Klemt
+#   # - Worked in the Dipolar Quantum Gas group (Dysis).
+#   # - Designed and constructed a 1001nm laser system for dysprosium lattice experiment: Using EOMs, ULE cavity and transger cavity for frequency locking and AOM for fast freqeuncy sweeps.
+#   # - Planned to characterize the 1001nm transition of dysprosium and measure the excited state lifetime and polarizability.
   
 
 # Skills
